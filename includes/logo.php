@@ -1,14 +1,22 @@
 <?php
-// Logo component for Finn. Using optimized high-resolution transparent PNGs.
-$logo_class = isset($class) ? $class : 'h-8 w-auto';
+// SVG vector logo component for Finn.
 ?>
-<img 
-  src="/assets/images/logo-light.png" 
-  alt="Finn." 
-  class="logo-img inline-block dark:hidden <?php echo htmlspecialchars($logo_class); ?>"
-/>
-<img 
-  src="/assets/images/logo-dark.png" 
-  alt="Finn." 
-  class="logo-img hidden dark:inline-block <?php echo htmlspecialchars($logo_class); ?>"
-/>
+<svg 
+  viewBox="0 0 75 28" 
+  fill="none" 
+  xmlns="http://www.w3.org/2000/svg" 
+  class="<?php echo isset($class) ? htmlspecialchars($class) : 'h-8 w-auto'; ?>"
+>
+  <text 
+    x="0" 
+    y="21" 
+    font-family="'Outfit', 'Inter', sans-serif" 
+    font-weight="800" 
+    font-size="24" 
+    fill="currentColor" 
+    letter-spacing="-0.5px"
+  >
+    Finn
+  </text>
+  <circle cx="58" cy="19" r="3.5" fill="#81D460" />
+</svg>

@@ -31,41 +31,13 @@
         <div class="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
           
           <!-- Logos & Branding -->
-          <div class="flex items-center space-x-3 sm:space-x-4">
-            <a href="/" class="flex items-center space-x-2">
-              <!-- Emblem Black -->
-              <img 
-                src="https://cdn.myscheme.in/images/logos/emblem-black.svg" 
-                alt="Emblem of India" 
-                class="h-8 w-auto sm:h-10 transition-opacity duration-300 dark:hidden"
-              />
-              <!-- Emblem White -->
-              <img 
-                src="https://cdn.myscheme.in/images/logos/emblem-white.svg" 
-                alt="Emblem of India" 
-                class="h-8 w-auto sm:h-10 transition-opacity duration-300 hidden dark:block"
-              />
-              <div class="h-6 w-px bg-[var(--border-color)]" />
-              
+          <div class="flex items-center">
+            <a href="/" class="flex items-center">
               <!-- Vector Finn Logo -->
               <?php 
-                $class = "h-7 w-auto sm:h-8 text-[var(--text-primary)] transition-colors duration-300";
+                $class = "h-8 w-auto text-[var(--text-primary)] transition-colors duration-300";
                 include __DIR__ . '/logo.php'; 
               ?>
-              
-              <div class="hidden h-6 w-px bg-[var(--border-color)] sm:block" />
-              <!-- Digital India Black -->
-              <img 
-                src="https://cdn.myscheme.in/images/logos/digital-india-black.svg" 
-                alt="Digital India" 
-                class="hidden h-6 w-auto sm:block dark:hidden transition-opacity duration-300"
-              />
-              <!-- Digital India White -->
-              <img 
-                src="https://cdn.myscheme.in/images/logos/digital-india-white.svg" 
-                alt="Digital India" 
-                class="hidden h-6 w-auto sm:dark:block transition-opacity duration-300"
-              />
             </a>
           </div>
 
