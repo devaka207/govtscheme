@@ -1,0 +1,444 @@
+{
+  "scheme": {
+    "_id": "6299a47e72acc0e5ffb4e8ae",
+    "en": {
+      "basicDetails": {
+        "schemeOpenDate": "2020-03-26",
+        "schemeCloseDate": "2027-09-01",
+        "nodalMinistryName": {
+          "value": 499,
+          "label": "Ministry Of Finance"
+        },
+        "nodalDepartmentName": {
+          "value": 1597,
+          "label": "Department Of Economic Affairs"
+        },
+        "otherMinistryName": [
+          {
+            "value": 1566,
+            "label": "Ministry Of Consumer Affairs, Food And Public Distribution"
+          }
+        ],
+        "otherDepartmentNames": [
+          {
+            "value": 1590,
+            "label": "Department Of Food And Public Distribution"
+          }
+        ],
+        "targetBeneficiaries": [
+          {
+            "value": "individual",
+            "label": "Individual"
+          },
+          {
+            "value": "family",
+            "label": "Family"
+          }
+        ],
+        "schemeSubCategory": [
+          {
+            "value": "Food Security / Public Distribution System",
+            "label": "Food Security / Public Distribution System"
+          }
+        ],
+        "dbtScheme": true,
+        "implementingAgency": null,
+        "tags": [
+          "Ration",
+          "Anna",
+          "Wheat",
+          "Rice",
+          "Food Grains"
+        ],
+        "schemeName": "Pradhan Mantri Garib Kalyan Anna Yojana",
+        "schemeShortTitle": "PM-GKAY",
+        "level": {
+          "value": "central",
+          "label": "Central"
+        },
+        "schemeCategory": [
+          {
+            "value": "628ce87cd6d1a3bde4685312",
+            "label": "Social welfare & Empowerment",
+            "subcategories": [
+              "Pension",
+              "Crisis/Disaster/Accident",
+              "Shelter",
+              "Rehabilitation",
+              "Loan",
+              "Insurance",
+              "Provident fund",
+              "Aids/Appliances",
+              "Micro finance",
+              "Marriage",
+              "Financial assistance",
+              "Citizen empowerment",
+              "Food Security / Public Distribution System"
+            ]
+          }
+        ],
+        "schemeFor": "Family"
+      },
+      "schemeContent": {
+        "references": [
+          {
+            "title": "Scheme Guidelines",
+            "url": "https://www.idfcinstitute.org/site/assets/files/15623/final_white_paper_pmgky-2-1.pdf "
+          }
+        ],
+        "schemeImageUrl": "https://uttara-s3-bucket.s3.ap-south-1.amazonaws.com/schemes/pm-gkay/pm-gkay.svg",
+        "detailedDescription_md": "**Pradhan Mantri Garib Kalyan Anna Yojana (PM-GKAY)** is a scheme as part of Atmanirbhar Bharat to **supply free food grains to migrants and poor.** \nPhase-I and Phase-II of this scheme were operational from April to June, 2020 and July to November, 2020 respectively. Phase III of the scheme was operational from May to June, 2021. Phase-IV of the scheme during July-November, 2021 and Phase V from December 2021 till March, 2022 .\nUnder this scheme, the center provides 5kg of free food grains per month to the poor. This is in addition to the subsidized (Rs 2-3 per kg) ration provided under the National Food Security Act (NFSA) to families covered under the Public Distribution System (PDS). The food grain and the amount may be variable.\n#### Phase VI:\nThe PMGKAY scheme for **Phase VI** from **April-September, 2022** would entail an estimated additional food subsidy of Rs. 80,000 Crore.\n#### Note:\nCheck One Nation One Ration Card Scheme which provides an option to all eligible ration cardholders or beneficiaries covered under the National Food Security Act (NFSA), 2013 for accessing their entitlements from anywhere in India.\n",
+        "benefits_md": "\n1. PMGKAY provides 5 kg of food grain to each family holding a ration card free of cost and the 5 kg of subsidized food grain already offered through the Public Distribution System (PDS).\n1. Wheat has been allocated to 6 States/UTs, - Punjab, Haryana, Rajasthan, Chandigarh, Delhi, and Gujarat, and rice has been provided to the remaining States/UTs.\n\n",
+        "exclusions_md": "<br>\n\n",
+        "briefDescription": "The scheme provides free food grain through the Public Distribution System, to all the priority households (ration card holders and those identified by the Antyodaya Anna Yojana scheme) - Migrants and the Poor. ",
+        "detailedDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Pradhan Mantri Garib Kalyan Anna Yojana (PM-GKAY)",
+                "bold": true
+              },
+              {
+                "text": " is a scheme as part of Atmanirbhar Bharat to "
+              },
+              {
+                "text": "supply free food grains to migrants and poor. ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Phase-I and Phase-II of this scheme were operational from April to June, 2020 and July to November, 2020 respectively. Phase III of the scheme was operational from May to June, 2021. Phase-IV of the scheme during July-November, 2021 and Phase V from December 2021 till March, 2022 ."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Under this scheme, the center provides 5kg of free food grains per month to the poor. This is in addition to the subsidized (Rs 2-3 per kg) ration provided under the National Food Security Act (NFSA) to families covered under the Public Distribution System (PDS). The food grain and the amount may be variable."
+              }
+            ]
+          },
+          {
+            "type": "heading_four",
+            "children": [
+              {
+                "text": "Phase VI:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The PMGKAY scheme for "
+              },
+              {
+                "text": "Phase VI",
+                "bold": true
+              },
+              {
+                "text": " from "
+              },
+              {
+                "text": "April-September, 2022",
+                "bold": true
+              },
+              {
+                "text": " would entail an estimated additional food subsidy of Rs. 80,000 Crore."
+              }
+            ]
+          },
+          {
+            "type": "heading_four",
+            "children": [
+              {
+                "text": "Note:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Check One Nation One Ration Card Scheme which provides an option to all eligible ration cardholders or beneficiaries covered under the National Food Security Act (NFSA), 2013 for accessing their entitlements from anywhere in India."
+              }
+            ]
+          }
+        ],
+        "benefitTypes": {
+          "value": "in kind",
+          "label": "In Kind"
+        },
+        "benefits": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "PMGKAY provides 5 kg of food grain to each family holding a ration card free of cost and the 5 kg of subsidized food grain already offered through the Public Distribution System (PDS)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Wheat has been allocated to 6 States/UTs, - Punjab, Haryana, Rajasthan, Chandigarh, Delhi, and Gujarat, and rice has been provided to the remaining States/UTs."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "exclusions": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      "applicationProcess": [
+        {
+          "mode": "Offline",
+          "url": "",
+          "process": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interested persons shall visit the nearest "
+                },
+                {
+                  "text": "Fair Price Shop ",
+                  "bold": true
+                },
+                {
+                  "text": "with the Ration Card:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Beneficiaries can quote either their ration card number or the Aadhaar number to any Fair Price Shop dealer across the country. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Beneficiaries can undergo Aadhaar authentication by using their fingerprints or iris-based identification."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "process_md": "Interested persons shall visit the nearest **Fair Price Shop** with the Ration Card:\n\n1. Beneficiaries can quote either their ration card number or the Aadhaar number to any Fair Price Shop dealer across the country. \n1. Beneficiaries can undergo Aadhaar authentication by using their fingerprints or iris-based identification.\n\n"
+        }
+      ],
+      "schemeDefinitions": [
+        {
+          "name": "NFSA Beneficiary",
+          "definition": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Act provides coverage for nearly 2/3rd of the country's total population, based on Census 2011 population estimates. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "75% of the Rural and 50% of the Urban population is entitled to receive highly subsidized food grains under two categories of beneficiaries – Antodaya Anna Yojana (AAY) households and Priority Households (PHH)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "State/UT-wise coverage is determined by the erstwhile Planning Commission (now NITI Aayog) on the basis of the 2011-12 Household Consumption Expenditure survey of NSSO(National Sample Survey Office)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "source": "Scheme guideline",
+          "definitions_md": "\n1. The Act provides coverage for nearly 2/3rd of the country&#39;s total population, based on Census 2011 population estimates. \n1. 75% of the Rural and 50% of the Urban population is entitled to receive highly subsidized food grains under two categories of beneficiaries – Antodaya Anna Yojana (AAY) households and Priority Households (PHH)\n1. State/UT-wise coverage is determined by the erstwhile Planning Commission (now NITI Aayog) on the basis of the 2011-12 Household Consumption Expenditure survey of NSSO(National Sample Survey Office).\n\n"
+        },
+        {
+          "name": "Antodaya Anna Yojana (AAY) households",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Antodaya Anna Yojana (AAY) involved the identification of one crore poorest of the poor families from amongst the number of BPL families covered under TPDS (Targetted Public The coverage includes -"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Widows or terminally ill persons or disabled persons or persons aged 60 years or more or single women or single men with no family or societal support or assured means of subsistence."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All primitive tribal households."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Landless agriculture labourers, marginal farmers, rural artisans/craftsmen such as potters, tanners, weavers, blacksmiths, carpenters, slum dwellers, and persons earning their livelihood on daily basis in the informal sector like porters, coolies, rickshaw pullers, hand cart pullers, fruit and flower sellers, snake charmers, rag pickers, cobblers, destitute  and other similar categories in both rural and urban areas."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All eligible Below Poverty Line families of HIV-positive persons."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "source": "Scheme Guideline",
+          "definitions_md": "Antodaya Anna Yojana (AAY) involved the identification of one crore poorest of the poor families from amongst the number of BPL families covered under TPDS (Targetted Public The coverage includes -\n\n1. Widows or terminally ill persons or disabled persons or persons aged 60 years or more or single women or single men with no family or societal support or assured means of subsistence.\n1. All primitive tribal households.\n1. Landless agriculture labourers, marginal farmers, rural artisans/craftsmen such as potters, tanners, weavers, blacksmiths, carpenters, slum dwellers, and persons earning their livelihood on daily basis in the informal sector like porters, coolies, rickshaw pullers, hand cart pullers, fruit and flower sellers, snake charmers, rag pickers, cobblers, destitute  and other similar categories in both rural and urban areas.\n1. All eligible Below Poverty Line families of HIV-positive persons.\n\n"
+        }
+      ],
+      "eligibilityCriteria": {
+        "eligibilityDescription_md": "\n1. Families belonging to **Antyodaya Anna Yojana (AAY)** and **Priority Households (PHH)** categories will be eligible for the scheme.1. **PHH** are to be identified by State Governments/Union Territory Administrations as per criteria evolved by them. AAY families are to be identified by States/UTs as per the criteria prescribed by the Central Government:1. Households headed by widows or terminally ill persons or disabled persons or persons aged 60 years or more with no assured means of subsistence or societal support.\n1. Widows or terminally ill persons or disabled persons or persons aged 60 years or more or single women or single men with no family or societal support or assured means of subsistence.\n1. All primitive tribal households.\n1. Landless agriculture labourers, marginal farmers, rural artisans/craftsmen such as potters, tanners, weavers, blacksmiths, carpenters, slum dwellers, and persons earning their livelihood on daily basis in the informal sector like porters, coolies, rickshaw pullers, hand cart pullers, fruit and flower sellers, snake charmers, rag pickers, cobblers, destitutes  and other similar categories in both rural and urban areas.\n1. All eligible Below Poverty Line families of HIV positive persons\n\n",
+        "eligibilityDescription": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Families belonging to "
+                  },
+                  {
+                    "text": "Antyodaya Anna Yojana (AAY)",
+                    "bold": true
+                  },
+                  {
+                    "text": " and "
+                  },
+                  {
+                    "text": "Priority Households (PHH)",
+                    "bold": true
+                  },
+                  {
+                    "text": " categories will be eligible for the scheme."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "PHH",
+                    "bold": true
+                  },
+                  {
+                    "text": " are to be identified by State Governments/Union Territory Administrations as per criteria evolved by them. AAY families are to be identified by States/UTs as per the criteria prescribed by the Central Government:"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Households headed by widows or terminally ill persons or disabled persons or persons aged 60 years or more with no assured means of subsistence or societal support."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Widows or terminally ill persons or disabled persons or persons aged 60 years or more or single women or single men with no family or societal support or assured means of subsistence."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "All primitive tribal households."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Landless agriculture labourers, marginal farmers, rural artisans/craftsmen such as potters, tanners, weavers, blacksmiths, carpenters, slum dwellers, and persons earning their livelihood on daily basis in the informal sector like porters, coolies, rickshaw pullers, hand cart pullers, fruit and flower sellers, snake charmers, rag pickers, cobblers, destitutes  and other similar categories in both rural and urban areas."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "All eligible Below Poverty Line families of HIV positive persons"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "slug": "pm-gkay"
+  },
+  "documents": "{}",
+  "faqs": "{}"
+}

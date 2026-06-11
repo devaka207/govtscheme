@@ -1,0 +1,405 @@
+{
+  "scheme": {
+    "_id": "65925e806093f0fa3310c070",
+    "en": {
+      "basicDetails": {
+        "dbtScheme": false,
+        "tags": [
+          "Financial Assistance",
+          "Social Welfare",
+          "Pension",
+          "Old Age",
+          "Senior Citizens"
+        ],
+        "schemeName": "Old Age Pension",
+        "schemeShortTitle": "OAPWB",
+        "level": {
+          "value": "state",
+          "label": "State/ UT"
+        },
+        "schemeCategory": [
+          {
+            "value": "628ce87cd6d1a3bde4685312",
+            "label": "Social welfare & Empowerment"
+          }
+        ],
+        "schemeSubCategory": [
+          {
+            "value": "Pension",
+            "label": "Pension"
+          }
+        ],
+        "schemeOpenDate": "2010-01-01",
+        "targetBeneficiaries": [
+          {
+            "value": "individual",
+            "label": "Individual"
+          }
+        ],
+        "state": {
+          "value": 19,
+          "label": "West Bengal"
+        },
+        "nodalDepartmentName": {
+          "value": 19999951,
+          "label": "Women and Child Development and Social Welfare Department"
+        },
+        "schemeFor": "Individual"
+      },
+      "schemeContent": {
+        "references": [
+          {
+            "title": "Guidelines",
+            "url": "https://wbswpension.gov.in/pages/wcd_about_scheme.php"
+          },
+          {
+            "title": "Application Form",
+            "url": "https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf"
+          }
+        ],
+        "schemeImageUrl": "",
+        "detailedDescription_md": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the &amp;quot;Old Age Pension&amp;quot; scheme. The West Bengal Disability Pension Scheme provides financial assistance to persons who are above 60 years and unable to work and earn a living. \n",
+        "benefits_md": "\n- ₹1,000/- per month.\n\n",
+        "exclusions_md": "&gt; **Professional Beggars and Mendicants:**\n\n\n  - Professional beggars and mendicants of urban areas (cities and towns) are not eligible for pension under this scheme.\n\n&gt; **Recipients of Other Pensions:**\n\n\n  - Persons receiving “Disability Pension”, “Widow Pension”, “Farmers’ Pension”, “Political Sufferers”, or any other pension of any State Government or the Central Government shall not be eligible for pension under this scheme.\n\n",
+        "briefDescription": "In 2010, the Women and Child Development and Social Welfare Department of the West Bengal State Government introduced the \"Old Age Pension\" scheme.",
+        "detailedDescription": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the \"Old Age Pension\" scheme. The West Bengal Disability Pension Scheme provides financial assistance to persons who are above 60 years and unable to work and earn a living. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "benefitTypes": {
+          "id": 1,
+          "value": "cash",
+          "label": "Cash"
+        },
+        "benefits": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "₹1,000/- per month."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "exclusions": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Professional Beggars and Mendicants:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Professional beggars and mendicants of urban areas (cities and towns) are not eligible for pension under this scheme."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Recipients of Other Pensions:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Persons receiving “Disability Pension”, “Widow Pension”, “Farmers’ Pension”, “Political Sufferers”, or any other pension of any State Government or the Central Government shall not be eligible for pension under this scheme."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "applicationProcess": [
+        {
+          "mode": "Offline",
+          "process": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "block_quote",
+                  "children": [
+                    {
+                      "text": "Application Form(",
+                      "bold": true,
+                      "underline": true
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Form-P)",
+                          "underline": true
+                        }
+                      ]
+                    },
+                    {
+                      "bold": true,
+                      "text": " for Pension may be obtained free of cost from following offices namely",
+                      "underline": true
+                    },
+                    {
+                      "bold": true,
+                      "text": ":"
+                    }
+                  ]
+                },
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "block_quote",
+                  "children": [
+                    {
+                      "text": "Application Form for Pension shall be addressed to",
+                      "bold": true,
+                      "italic": true,
+                      "underline": true
+                    },
+                    {
+                      "bold": true,
+                      "italic": true,
+                      "text": ":-"
+                    }
+                  ]
+                },
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The District Magistrate of the concerned District and shall be submitted to the Block Development Officer or the Executive Officer of the Panchayat Samity in case of the applicant residing in the rural areas under a Panchayat Samity."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The District magistrate of the concerned District and Shall be submitted to the Sub-Divisional Officer in case of the applicant residing in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The Controller of Vagrancy, West Bengal and shall be submitted to the Controller Vagrancy West Bengal in case of the applicant residing within the areas under Kolkata Municipal Corporation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "block_quote",
+                  "children": [
+                    {
+                      "text": "District Nodal Officers:",
+                      "bold": true,
+                      "underline": true
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "For any query related to the scheme concerned "
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://wbswpension.gov.in/pages/wcd_key_officials.php",
+                      "children": [
+                        {
+                          "text": "District Nodal Officers"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " can be contacted."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "process_md": "&gt; **Application Form(**[**Form-P)**](https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf) **for Pension may be obtained free of cost from following offices namely****:**\n\n\n   1. Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity.\n   1. Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.\n   1. Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation.\n\n&gt; ***Application Form for Pension shall be addressed to******:-***\n\n\n   1. The District Magistrate of the concerned District and shall be submitted to the Block Development Officer or the Executive Officer of the Panchayat Samity in case of the applicant residing in the rural areas under a Panchayat Samity.\n   1. The District magistrate of the concerned District and Shall be submitted to the Sub-Divisional Officer in case of the applicant residing in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.\n   1. The Controller of Vagrancy, West Bengal and shall be submitted to the Controller Vagrancy West Bengal in case of the applicant residing within the areas under Kolkata Municipal Corporation.\n\n&gt; **District Nodal Officers:**\n\nFor any query related to the scheme concerned [District Nodal Officers](https://wbswpension.gov.in/pages/wcd_key_officials.php) can be contacted.\n"
+        }
+      ],
+      "schemeDefinitions": [],
+      "eligibilityCriteria": {
+        "eligibilityDescription_md": "\n  - Applicant must be a resident of West Bengal State.\n  - Applicant must be 60 years old or above, but in the case of physically and mentally handicapped individuals, the age limit for eligibility is 55 years.\n  - Applicant should not have any relation capable of providing financial support (here “relation” means: Son/ Grand Son/ Husband/Wife/ Unmarried daughter/ Parents).\n  - The income of the applicant should not exceed ₹ 1,000/- per month.\n  - The applicant should not be a recipient of any other Government pension.\n  - The applicant should be residing in the State for not less than ten years on the date of making the application.\n\n&gt; ***Note:***\n\n\n  - The State Government may relax the residency condition in cases where undue hardship is caused.\n  - When only the year of birth is known, 1st July of that year or when the month is only known, 16th day of the month is to be taken as the date of birth.\n\n",
+        "eligibilityDescription": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applicant must be a resident of West Bengal State."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applicant must be 60 years old or above, but in the case of physically and mentally handicapped individuals, the age limit for eligibility is 55 years."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applicant should not have any relation capable of providing financial support (here “relation” means: Son/ Grand Son/ Husband/Wife/ Unmarried daughter/ Parents)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The income of the applicant should not exceed ₹ 1,000/- per month."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant should not be a recipient of any other Government pension."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant should be residing in the State for not less than ten years on the date of making the application."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Note:",
+                    "bold": true,
+                    "italic": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The State Government may relax the residency condition in cases where undue hardship is caused."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "When only the year of birth is known, 1st July of that year or when the month is only known, 16th day of the month is to be taken as the date of birth."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "slug": "oapwb"
+  },
+  "documents": "{}",
+  "faqs": "{}"
+}

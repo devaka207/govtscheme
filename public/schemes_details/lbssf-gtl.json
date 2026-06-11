@@ -1,0 +1,451 @@
+{
+  "scheme": {
+    "_id": "628b2b49c9b440ca7f31fb29",
+    "en": {
+      "basicDetails": {
+        "dbtScheme": false,
+        "tags": [
+          "Safai Karamcharis",
+          "Entrepreneurship",
+          "Loan",
+          "Financial Assistance",
+          "Credit",
+          "Sanitation",
+          "Manual Scavengers",
+          "Waste Pickers"
+        ],
+        "schemeName": "Loan Based Schemes For Safai Karamchari - General Term Loan (GTL)",
+        "schemeShortTitle": "LBSSF-GTL",
+        "implementingAgency": "National Safai Karamcharis Finance & Development Corporation (NSKFDC)",
+        "level": {
+          "value": "central",
+          "label": "Central"
+        },
+        "schemeType": {
+          "value": "centrally-sponsored-scheme",
+          "label": "Centrally Sponsored Scheme"
+        },
+        "schemeCategory": [
+          {
+            "value": "628ce733d6d1a3bde4685278",
+            "label": "Business & Entrepreneurship"
+          },
+          {
+            "value": "628ce7f6d6d1a3bde46852d0",
+            "label": "Banking,Financial Services and Insurance"
+          },
+          {
+            "value": "628ce87cd6d1a3bde4685312",
+            "label": "Social welfare & Empowerment"
+          },
+          {
+            "value": "628ce97ad6d1a3bde468537d",
+            "label": "Utility & Sanitation"
+          }
+        ],
+        "schemeSubCategory": [
+          {
+            "value": "Setting up / start-up / entrepreneurship",
+            "label": "Setting up / start-up / entrepreneurship"
+          },
+          {
+            "value": "Sanitation / Sewage",
+            "label": "Sanitation / Sewage"
+          },
+          {
+            "value": "Loan",
+            "label": "Loan"
+          }
+        ],
+        "schemeOpenDate": "1997-10-01",
+        "targetBeneficiaries": [
+          {
+            "value": "individual",
+            "label": "Individual"
+          },
+          {
+            "value": "registered-societies",
+            "label": "Registered Societies"
+          }
+        ],
+        "schemeFor": "Family",
+        "nodalMinistryName": {
+          "value": 712,
+          "label": "Ministry Of Social Justice and Empowerment"
+        },
+        "nodalDepartmentName": null
+      },
+      "schemeContent": {
+        "references": [
+          {
+            "title": "Guidelines",
+            "url": "https://nskfdc.nic.in/en/content/schemes-programmes/general-term-loan-tl  "
+          },
+          {
+            "title": "Information",
+            "url": "https://nskfdc.nic.in/en/content/schemes-programmes/loan-schemes"
+          }
+        ],
+        "schemeImageUrl": "https://uttara-s3-bucket.s3.ap-south-1.amazonaws.com/schemes/lbssf-gtl/lbssf-gtl.svg",
+        "detailedDescription_md": "The scheme &quot;Loan Based Schemes For Safai Karamchari - General Term Loan&quot; has been launched by the Ministry of Social Justice and Empowerment, Government of India. Under this scheme, term loans are extended through State Channelising Agencies (SCAs), Regional Rural Banks(RRBs), and Nationalised Banks to the target group. Under this scheme, assistance is provided for any viable income-generating schemes, including sanitation-related activities, with a maximum project cost of ₹ 15.00 lac.\n<br>\n\n",
+        "benefits_md": "> **Term loan:**\n\n\n1. Up to 90% of the unit cost with a maximum unit cost of ₹ 15.00 lacs at an interest rate of 6%, for any viable income generating schemes including sanitation-related activities.\n\n> **Repayment period:**\n\n\n1.  Up to 10 years after an implementation period of 4 months and a moratorium of 6 months and from the date of loan disbursement depending on the viability/profitability and repaying capacity of the unit.\n1. A General Term loan can be provided up to a maximum of 90% of the unit cost. The remaining 10%  share is to be provided by the State Channelising Agencies in the form of loan, subsidy or promoter’s contribution, or any other available funds sources.\n1. Promoter’s contribution is not insisted upon for projects costing up to ₹ 2.00 lac\n1. For projects costing more than ₹ 2.00 lac, the minimum promoter’s contribution insisted by NSKFDC from the beneficiaries is 5%.\n\n<br>\n\n",
+        "exclusions_md": "<br>\n\n",
+        "briefDescription": "A general term loan scheme by the Ministry of Social justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependants aged 18 years and above. \n",
+        "detailedDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The scheme \"Loan Based Schemes For Safai Karamchari - General Term Loan\" has been launched by the Ministry of Social Justice and Empowerment, Government of India. Under this scheme, term loans are extended through State Channelising Agencies (SCAs), Regional Rural Banks(RRBs), and Nationalised Banks to the target group. Under this scheme, assistance is provided for any viable income-generating schemes, including sanitation-related activities, with a maximum project cost of ₹ 15.00 lac."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "benefitTypes": {
+          "value": "Cash",
+          "label": "Cash"
+        },
+        "benefits": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Term loan:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Up to 90% of the unit cost with a maximum unit cost of ₹ 15.00 lacs at an interest rate of 6%, for any viable income generating schemes including sanitation-related activities."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Repayment period:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": " Up to 10 years after an implementation period of 4 months and a moratorium of 6 months and from the date of loan disbursement depending on the viability/profitability and repaying capacity of the unit."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "A General Term loan can be provided up to a maximum of 90% of the unit cost. The remaining 10%  share is to be provided by the State Channelising Agencies in the form of loan, subsidy or promoter’s contribution, or any other available funds sources."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Promoter’s contribution is not insisted upon for projects costing up to ₹ 2.00 lac"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For projects costing more than ₹ 2.00 lac, the minimum promoter’s contribution insisted by NSKFDC from the beneficiaries is 5%."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "exclusions": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      "applicationProcess": [
+        {
+          "mode": "Offline",
+          "url": "https://nskfdc.nic.in/en/content/home/list-channelizing-agencies",
+          "process": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Interested eligible person shall contact the nearest Channelling Agency: ("
+                },
+                {
+                  "type": "link",
+                  "link": "https://nskfdc.nic.in/en/content/home/list-channelizing-agencies",
+                  "children": [
+                    {
+                      "text": "https://nskfdc.nic.in/en/content/home/list-channelizing-agencies"
+                    }
+                  ]
+                },
+                {
+                  "text": ")"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "process_md": "Interested eligible person shall contact the nearest Channelling Agency: ([https://nskfdc.nic.in/en/content/home/list-channelizing-agencies](https://nskfdc.nic.in/en/content/home/list-channelizing-agencies))\n<br>\n\n"
+        },
+        {
+          "mode": "Online",
+          "url": "https://nskfdc.nic.in/en/node/add/loan-application",
+          "process": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "These applications are then sent to the head offices where the project proposal is appraised by SCA/RRBs/Nationalised Banks and the projects are sent back to NSKFDC along with recommendations."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Project Appraisal Committee of NSKFDC then appraises the proposals and after finding them in order places it in front of their board of directors for their approval."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Once the board of directors approves the project, the letter of sanction is issued by SCAs/ RRBs/Nationalised Banks."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Once all the terms and conditions have been accepted, the necessary documents and funds are then released to the concerned beneficiaries."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": " NSKFDC released the funds with the receipt of demand being made from the SCAs/ RRBs/Nationalised Banks after taking into consideration all the parameters of release as per the Lending Policies & Guidelines (LPG) of NSKFDC"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "process_md": "\n1. Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks.\n1. These applications are then sent to the head offices where the project proposal is appraised by SCA/RRBs/Nationalised Banks and the projects are sent back to NSKFDC along with recommendations.\n1. The Project Appraisal Committee of NSKFDC then appraises the proposals and after finding them in order places it in front of their board of directors for their approval.\n1. Once the board of directors approves the project, the letter of sanction is issued by SCAs/ RRBs/Nationalised Banks.\n1. Once all the terms and conditions have been accepted, the necessary documents and funds are then released to the concerned beneficiaries.\n1.  NSKFDC released the funds with the receipt of demand being made from the SCAs/ RRBs/Nationalised Banks after taking into consideration all the parameters of release as per the Lending Policies &amp; Guidelines (LPG) of NSKFDC\n\n"
+        }
+      ],
+      "schemeDefinitions": [
+        {
+          "name": "Target group",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Safai Karamcharis (including Wastepickers), Manual Scavengers and their dependants constitute the target group."
+                }
+              ]
+            }
+          ],
+          "source": "Scheme guideline",
+          "definitions_md": "Safai Karamcharis (including Wastepickers), Manual Scavengers and their dependants constitute the target group.\n"
+        },
+        {
+          "name": "Safai Karamchari",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“Safai Karamchari” means a person, including his/her dependants, engaged in or employed for any sanitation work and includes waste pickers, but excludes domestic worker and manual scavengers."
+                }
+              ]
+            }
+          ],
+          "source": "Scheme Guideline",
+          "definitions_md": "“Safai Karamchari” means a person, including his/her dependants, engaged in or employed for any sanitation work and includes waste pickers, but excludes domestic worker and manual scavengers.\n"
+        },
+        {
+          "name": "Manual Scavengers",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A person engaged or employed by an individual or a local authority or an agency or a contractor for manually cleaning, carrying, disposing of, or otherwise handling in any manner, human excreta in an insanitary latrine or in an open drain or pit into which the human excreta from the insanitary latrines is disposed of, or on railway track or in such other spaces or premises, as the Central Government or a State Government may notify, before the excreta fully decomposes in such a manner as may be prescribed, and the expression ‘’Manual Scavenging” shall be construed accordingly and a) “engaged or employed’’ means being engaged or employed on a regular or contract basis; b) a person engaged or employed to clean excreta with the help of such devices and using such protective gear, as the Central Government may notify in this behalf, shall not be deemed to be a ‘manual scavenger’. "
+                }
+              ]
+            }
+          ],
+          "source": "Scheme Guideline",
+          "definitions_md": "A person engaged or employed by an individual or a local authority or an agency or a contractor for manually cleaning, carrying, disposing of, or otherwise handling in any manner, human excreta in an insanitary latrine or in an open drain or pit into which the human excreta from the insanitary latrines is disposed of, or on railway track or in such other spaces or premises, as the Central Government or a State Government may notify, before the excreta fully decomposes in such a manner as may be prescribed, and the expression ‘’Manual Scavenging” shall be construed accordingly and a) “engaged or employed’’ means being engaged or employed on a regular or contract basis; b) a person engaged or employed to clean excreta with the help of such devices and using such protective gear, as the Central Government may notify in this behalf, shall not be deemed to be a ‘manual scavenger’. \n"
+        },
+        {
+          "name": "Dependent",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“Dependant” in relation to a Safai Karamcharis (including Wastepickers), Manual Scavengers includes a member of his family, who is dependent on him/her and has attained the age of 18 years & above for the purpose of financial assistance and for Skill Development Training Programme the age limit is 18 years to 45 years.  "
+                }
+              ]
+            }
+          ],
+          "source": "Scheme Guideline",
+          "definitions_md": "“Dependant” in relation to a Safai Karamcharis (including Wastepickers), Manual Scavengers includes a member of his family, who is dependent on him/her and has attained the age of 18 years &amp; above for the purpose of financial assistance and for Skill Development Training Programme the age limit is 18 years to 45 years.  \n"
+        }
+      ],
+      "eligibilityCriteria": {
+        "eligibilityDescription_md": "**The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:-** \n>  Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents.\n\n\n1. Registered co-operative societies of the target group. \n1.  Legally constituted association/firm promoted by the target group, and\n1.  Persons who produce a certificate from local Revenue Officer/local Municipal Officer/Cantonment Executive Officer/ Railway Officer, Head of the Govt. Departments (i.e. Schools, Colleges, Forest, Health, Education, Animal Husbandry) having rank not less than Gazetted Officer, Elected Members of Municipal Body, Pradhan of Gram Panchayats and Regional Managers of Regional Rural Banks (RRBs)/Public Sector Banks (PSBs). However, under the MS Act, 2013, a person identified as Manual Scavenger in a survey, need not to provide any certificate once his/her name appeared in the final list of Manual Scavengers prepared by State Governments/Union Territory Administration (https://nskfdc.nic.in/en/content/home/ms-survey-2018, https://nskfdc.nic.in/en/node/79798  ). \n1. Mukhia/ Sarpanch/ President or any other authority equivalent to Pradhan of Gram Panchayat for issue of Occupation Certificate to Safai Karamcharis/ dependants; and In case of Municipal Bodies without Gazetted Officers, the head of such Municipal Bodies, may be the Competent Authority.   \n\n<br>\n\n",
+        "eligibilityDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The following person(s)/entities shall be considered eligible for availing of financial assistance under the various schemes of NSKFDC:- ",
+                "underline": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": " ",
+                "underline": true
+              },
+              {
+                "text": "Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents."
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Registered co-operative societies of the target group. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": " Legally constituted association/firm promoted by the target group, and"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": " Persons who produce a certificate from local Revenue Officer/local Municipal Officer/Cantonment Executive Officer/ Railway Officer, Head of the Govt. Departments (i.e. Schools, Colleges, Forest, Health, Education, Animal Husbandry) having rank not less than Gazetted Officer, Elected Members of Municipal Body, Pradhan of Gram Panchayats and Regional Managers of Regional Rural Banks (RRBs)/Public Sector Banks (PSBs). However, under the MS Act, 2013, a person identified as Manual Scavenger in a survey, need not to provide any certificate once his/her name appeared in the final list of Manual Scavengers prepared by State Governments/Union Territory Administration (https://nskfdc.nic.in/en/content/home/ms-survey-2018, https://nskfdc.nic.in/en/node/79798  ). "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Mukhia/ Sarpanch/ President or any other authority equivalent to Pradhan of Gram Panchayat for issue of Occupation Certificate to Safai Karamcharis/ dependants; and In case of Municipal Bodies without Gazetted Officers, the head of such Municipal Bodies, may be the Competent Authority.   "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "slug": "lbssf-gtl"
+  },
+  "documents": "{}",
+  "faqs": "{}"
+}
