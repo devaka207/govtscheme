@@ -1,0 +1,364 @@
+{
+  "scheme": {
+    "_id": "62862b705c708f567e107f1a",
+    "en": {
+      "basicDetails": {
+        "schemeOpenDate": "2003-08-15",
+        "schemeCloseDate": null,
+        "nodalDepartmentName": null,
+        "otherMinistryName": null,
+        "otherDepartmentNames": null,
+        "targetBeneficiaries": [
+          {
+            "value": "individual",
+            "label": "Individual"
+          }
+        ],
+        "schemeSubCategory": [
+          {
+            "value": "Setting up / start-up / entrepreneurship",
+            "label": "Setting up / start-up / entrepreneurship"
+          },
+          {
+            "value": "Insurance",
+            "label": "Insurance"
+          },
+          {
+            "value": "Scholarships and student finance",
+            "label": "Scholarships and student finance"
+          },
+          {
+            "value": "Crisis/Disaster/Accident",
+            "label": "Crisis/Disaster/Accident"
+          },
+          {
+            "value": "Annuity",
+            "label": "Annuity"
+          },
+          {
+            "value": "Financial assistance",
+            "label": "Financial assistance"
+          },
+          {
+            "value": "Citizen empowerment",
+            "label": "Citizen empowerment"
+          }
+        ],
+        "dbtScheme": false,
+        "implementingAgency": "Pension Group Schemes Department, Life Insurance Corporation Of India (LIC)",
+        "tags": [
+          "Insurance",
+          "Entrepreneur",
+          "Business",
+          "Persons With Disability",
+          "Citizen Empowerment"
+        ],
+        "schemeName": "Khadi Karigar Janashree Bima Yojana",
+        "schemeShortTitle": "KKJBY",
+        "level": {
+          "value": "central",
+          "label": "Central"
+        },
+        "nodalMinistryName": {
+          "value": 497,
+          "label": "Ministry Of Micro, Small and Medium Enterprises"
+        },
+        "schemeCategory": [
+          {
+            "value": "628ce7f6d6d1a3bde46852d0",
+            "label": "Banking,Financial Services and Insurance"
+          },
+          {
+            "value": "628ce87cd6d1a3bde4685312",
+            "label": "Social welfare & Empowerment"
+          },
+          {
+            "value": "628ce76cd6d1a3bde4685292",
+            "label": "Education & Learning"
+          },
+          {
+            "value": "628ce733d6d1a3bde4685278",
+            "label": "Business & Entrepreneurship"
+          }
+        ],
+        "schemeFor": "Infra"
+      },
+      "schemeContent": {
+        "references": [
+          {
+            "title": "Guidelines",
+            "url": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/1_3_1.html"
+          }
+        ],
+        "schemeImageUrl": "",
+        "briefDescription": "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death and disability of the insured member.",
+        "detailedDescription": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death, permanent or partial disability of the insured artisan. Scholarships are provided to the insurer’s children studying in class 9th to 12th."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The artisan must be member of the approved vocation / occupation groups. This scheme was formulated by Khadi and Village Industries Commission (KVIC) in association with the Life Insurance Corporation of India (LIC)."
+              }
+            ]
+          }
+        ],
+        "benefitTypes": {
+          "value": "Cash",
+          "label": "Cash"
+        },
+        "benefits": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For death: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Natural causes – ₹20,000; and Accident – ₹50,000."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "For permanent disability"
+                  },
+                  {
+                    "text": " (loss of two eyes or two limbs) – ₹50,000."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "For partial disability"
+                  },
+                  {
+                    "text": " (loss of one eye or one limb) – ₹25,000."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Free add-on benefit",
+                    "bold": true
+                  },
+                  {
+                    "text": ": Scholarship of ₹300 per quarter for children of Khadi Karigar, studying in class 9th to 12th standard, subject to a maximum of 2 children per family"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "detailedDescription_md": "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death, permanent or partial disability of the insured artisan. Scholarships are provided to the insurer’s children studying in class 9th to 12th.\n<br>\n\nThe artisan must be member of the approved vocation / occupation groups. This scheme was formulated by Khadi and Village Industries Commission (KVIC) in association with the Life Insurance Corporation of India (LIC).\n"
+      },
+      "applicationProcess": [
+        {
+          "mode": "Offline",
+          "url": "",
+          "process": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The nominee of the deceased person will have to follow the below procedure:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Step 1:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The beneficiary will have to furnish the original death certificate of the deceased person to the Pension Group Schemes Department of LIC of India through the Khadi Institution under which the deceased was a member."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Step 2:",
+                      "bold": true
+                    },
+                    {
+                      "text": " In case of accidental deaths, the police enquiry report will also need to be submitted along with the application."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Step 3:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The agency will proceed further to forward the documents along with the claim records/papers to LIC as the branch which has originally finalised in the insurance cover."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Step 4:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The Life Insurance Corporation will settle all the claims by sending account Payee Cheque directly to the beneficiary. This intimation has to be furnished to the concerned State Government."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "schemeDefinitions": [
+        {
+          "name": "Accident",
+          "source": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/1_3_1.html",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "An accident means sudden, unforeseen and involuntary event caused by external, visible and violent means."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "permanent disability",
+          "source": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/1_3_1.html",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "the loss of two eyes or two limbs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "partial disability",
+          "source": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/1_3_1.html",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " loss of one eye or one limb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "approved vocation / occupation groups",
+          "definition": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "the groups that are identified and notified by LIC in consultation with the Nodal Agency. These groups mandatorily have 25 or more members."
+                }
+              ]
+            }
+          ],
+          "source": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/1_3_1.html"
+        }
+      ],
+      "eligibilityCriteria": {
+        "eligibilityDescription_md": "\n1. The applicant must be a Khadi Artisan (Khadi Karigar).\n1. The age of the applicant must be between 18 and 59 years.\n1. The applicant must be a member of the approved vocation/occupation groups.\n1. The group must have a minimum of 25 members.\n\n<br>\n\n",
+        "eligibilityDescription": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must be a Khadi Artisan (Khadi Karigar)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The age of the applicant must be between 18 and 59 years."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must be a member of the approved vocation/occupation groups."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The group must have a minimum of 25 members."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "slug": "kkjby"
+  },
+  "documents": "{}",
+  "faqs": "{}"
+}

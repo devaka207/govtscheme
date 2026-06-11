@@ -1,0 +1,12 @@
+DirectoryIndex index.php
+
+RewriteEngine On
+RewriteBase /
+
+# Rewrite /search to index.php
+RewriteRule ^search/?$ index.php [L]
+
+# Rewrite /schemes/slug-name to /scheme.php?slug=slug-name
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^schemes/([a-zA-Z0-9_-]+)/?$ scheme.php?slug=$1 [QSA,L]
